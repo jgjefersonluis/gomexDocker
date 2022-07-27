@@ -1,1 +1,7 @@
-<p>Aplicação criação de imagem e containers com docker.</p>
+# Aplicação Python rodando em Docker
+
+$ docker-compose build
+
+$ docker run python:3.11.0b5
+
+

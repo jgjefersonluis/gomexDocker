@@ -1,5 +1,5 @@
-from flask import Flask
-from redis import Redis
+from Flask import Flask
+from Redis import Redis
 
 import os
 
